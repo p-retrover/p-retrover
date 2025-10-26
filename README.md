@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Hey, I'm Omm Satyakam !
+
+Welcome to my GitHub profile!
+
+## 🏅 My Holopin Badges
+
+[![An image of @pretrover's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@pretrover)](https://www.holopin.io/@pretrover)
+
 
 <!--
 **p-retrover/p-retrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
