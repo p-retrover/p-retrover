@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🏅 My Holopin Badges
 
-[![An image of @pretrover's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@pretrover)](https://www.holopin.io/@pretrover)
+[![An image of @pretrover's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pretrover)](https://holopin.io/@pretrover)
 
 
 <!--
